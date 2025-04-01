@@ -2,5 +2,5 @@ pandas
 numpy
 scikit-learn
 seaborn
-matplotlib.pyplot
+matplotlib
 sklearn.preprocessing
